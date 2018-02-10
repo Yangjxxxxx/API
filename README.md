@@ -1,3 +1,5 @@
- 这次的小练习使用eclipse编写，所有源代码在src/com/yjx里，初次使用github，我索性把整个项目文件上传了。
- 然后这次练习主要参看的资料是servlet菜鸟教程，网址http://www.runoob.com/servlet/servlet-tutorial.html，再有就是参考了一下王星锦学长在题目里的那些api文档的例子。
- 还有有一些零碎的东西就是百度了一下，其余的没什么了。第一次写readme不知道写啥，就先写这些吧。。
+参考资料：servlet菜鸟教程http://www.runoob.com/servlet/servlet-tutorial.html 还有学长发的api文档
+
+我开发基础较弱，只完成了最基本的那几个功能，而且感觉还不太完善，还需努力！
+
+这是我的api说明：http://showdoc.fenlan96.com/index.php?s=/9
